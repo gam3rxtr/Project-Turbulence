@@ -1,0 +1,15 @@
+{
+	"author": "Gerald B. Picazo <gerald.b.picazo@gmail.com> && Andrew T. Alegre <andrew_a813@yahoo.com.ph>"
+  , "name": "Turbulence Project"
+  , "version": "1.0.0"
+  , "private":true
+  , "scripts": {
+    "start": "node app.js"
+  	}
+  , "dependencies": {
+      "express": "2.5.5"
+    , "coffeekup": ">= 0.0.1"
+    , "socket.io": ">= 0.8.7"
+    , "jsdom": ">= 0.2.10"
+  }
+}
