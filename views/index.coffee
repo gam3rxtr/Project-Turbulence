@@ -1,6 +1,6 @@
 header ->
 	'header'
 article ->
-	@title
+	@result
 footer ->
 	'footer'

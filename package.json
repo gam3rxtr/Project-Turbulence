@@ -1,7 +1,7 @@
 {
 	"author": "Gerald B. Picazo <gerald.b.picazo@gmail.com> && Andrew T. Alegre <andrew_a813@yahoo.com.ph>"
-  , "name": "Turbulence Project"
-  , "version": "1.0.0"
+  , "name": "Project-Turbulence"
+  , "version": "0.0.1"
   , "private":true
   , "scripts": {
     "start": "node app.js"
